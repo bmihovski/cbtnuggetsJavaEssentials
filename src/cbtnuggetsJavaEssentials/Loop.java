@@ -1,6 +1,6 @@
 package cbtnuggetsJavaEssentials;
 
-public class IsPrime {
+public class Loop {
 
 	public static void main(String[] args) {
 		

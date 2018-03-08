@@ -1,6 +1,6 @@
 package cbtnuggetsJavaEssentials;
 
-public class NightClub {
+public class Conditionals {
 
 	public static void main(String[] args) {
 		
